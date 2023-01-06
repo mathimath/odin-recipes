@@ -1,0 +1,12 @@
+.odin-recipes {
+    background-color: black;
+    color: white;
+    font-family: 'New Times Roman, sans-serif';
+    font-weight: bold;
+}
+
+#u-list {
+    background-color: rgb(250, 152, 152);
+    font-size: 20px;
+    color: blue;   
+}
