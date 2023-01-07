@@ -10,26 +10,3 @@
     font-size: 28px;
     color: blue;
 }
-
-.heading {
-    background-color: black;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-}
-
-.img {
-    height: 500px;
-    width: 500px;
-}
-
-.desc {
-    background-color: aqua;
-    color: black;
-}
-
-.gpara {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px;
-    font-weight: 500;
-}
