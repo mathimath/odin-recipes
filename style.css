@@ -10,3 +10,26 @@
     font-size: 28px;
     color: greenyellow;
 }
+
+#title {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.waffles-image {
+    height: 500px;
+    width: 500px;
+}
+
+#descr #ing-title {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.wpara-big .wpara-small {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
